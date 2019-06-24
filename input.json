@@ -1,0 +1,5 @@
+{
+	"query":"budget plan\"help desk system\"",
+	"inp":"None",
+	"_comment" : ["If you want to change the search query,change it in the query","inp represents the time of the results None->Any results;qdr:h->Last Hour;qdr:d->Last Day;qdr:w->Last Week;qdr:m->Last month"]
+}
